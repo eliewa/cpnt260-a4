@@ -1,6 +1,6 @@
 # CPNT 260 Assignment 4: Hero Section
 
-Author: Eli Ewa live site: 
+Author: Eli Ewa live site: https://eliewa.github.io/cpnt260-a4/
 
 ## Above and Beyond
 
